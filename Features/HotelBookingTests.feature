@@ -10,7 +10,7 @@ Feature: Hotel Booking
     Then the booking is successfully stored
     And shown to the user as stored
 
-  @QV25-1 @JV10-4 @OPEN
+  @QV25-1 @JV10-4 @OPEN @clse @test @the @tags
   Scenario: Retrieve a booking in Hotel Booking
     Given Hotel Booking has existing bookings
     When a specific booking is requested by the user
