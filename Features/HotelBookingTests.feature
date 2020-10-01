@@ -1,6 +1,6 @@
 Feature: Hotel Booking
 
-  @FX25-1 @JV10-5 @OPEN
+  @FX25-1 @ORPHAN
   Scenario: Create a booking in Hotel Booking
     Given a user wants to make a booking with the following details
       | firstname | lastname | price | paid | from       | to         | needs     |
