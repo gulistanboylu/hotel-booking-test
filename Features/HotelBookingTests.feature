@@ -21,6 +21,7 @@ Feature: Hotel Booking
     When a specific booking is updated by the user
     Then the booking is shown to be updated
 
+  @MANUAL
   Scenario: Delete a booking in Hotel Booking
     Given Hotel Booking has existing bookings
     When a specific booking is deleted by the user
