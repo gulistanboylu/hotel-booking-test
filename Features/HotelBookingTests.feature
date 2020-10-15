@@ -7,7 +7,7 @@ Feature: Hotel Booking
       | Mark      | Winters  | 120   | true | 2018-01-01 | 2018-01-03 | Breakfast |
     
     When the booking is submitted by the user
-    Then the booking is successfully stored
+    Then the booking is successfully storedr
     And shown to the user as stored
 
   @QV25-1 @JV10-4 @clse @test @the @tags @dddd @ddddd @gsdfsd @fdfs @fdfsdf @OPEN
