@@ -1,7 +1,8 @@
 Feature: Test2
 
   @ORPHAN
-  Scenario: testign 
+  Scenario: testign
     Given something
     When soething
-    Then somthing
+    Then somthing 
+     | test table|
