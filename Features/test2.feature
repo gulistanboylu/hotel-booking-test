@@ -4,5 +4,6 @@ Feature: Test2
   Scenario: testign
     Given something
     When soething
-    Then somthing 
-     | test table|
+    Then somthing
+      | test table |
+    
