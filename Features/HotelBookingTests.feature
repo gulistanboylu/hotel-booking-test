@@ -1,5 +1,7 @@
 Feature: Hotel Booking
 
+ Background:
+ 
   @FX25-1 @JV10-6 @OPEN @MANUAL
   Scenario: Create a booking in Hotel Booking
     Given a user wants to make a booking with the following details
