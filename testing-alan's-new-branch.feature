@@ -2,10 +2,15 @@
 Feature: Testing alan's new branch update
 
   Testing on git Alan's new branch uptae
-  
 
   @ORPHAN @MANUAL
   Scenario: Test for Alan's branch
+    Given Soome test
+    When some test
+    Then some test
+
+  @ORPHAN @MANUAL @ORPHAN
+  Scenario: Copy of Test for Alan's branch
     Given Soome test
     When some test
     Then some test
