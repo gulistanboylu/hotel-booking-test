@@ -8,6 +8,7 @@ Feature: Testing alan's new branch update
     Given Soome test
     When some test
     Then some test
+    All good
 
   @ORPHAN @MANUAL @ORPHAN
   Scenario: Copy of Test for Alan's branch
