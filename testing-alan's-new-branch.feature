@@ -1,7 +1,8 @@
 @tag @for @Alans @new @branch
 Feature: Testing alan's new branch update
 
-  Testing on git Alan's new branch
+  Testing on git Alan's new branch uptae
+  
 
   @ORPHAN @MANUAL
   Scenario: Test for Alan's branch
