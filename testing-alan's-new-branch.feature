@@ -3,7 +3,7 @@ Feature: Testing alan's new branch update
 
   Testing on git Alan's new branch uptae
 
-  @ORPHAN @MANUAL
+  @MANUAL @VM30-1 @OPEN
   Scenario: Test for Alan's branch
     Given Soome test
     When some test
