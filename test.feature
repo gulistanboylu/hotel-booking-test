@@ -1,4 +1,4 @@
-@test @add @nother @tag
+@test @add @nother @tag @OPEN
 Feature: test change 
 
   adding some description to test it
