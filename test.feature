@@ -1,5 +1,5 @@
 @test @add @nother @tag @OPEN
-Feature: test change 
+Feature: test change
 
   adding some description to test it
 
@@ -14,3 +14,4 @@ Feature: test change
     Given test for retirement of spec page
     When we delete the all folders are not in use anyomre
     Then everything should work usual
+    add some tests
