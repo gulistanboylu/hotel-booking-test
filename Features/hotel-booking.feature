@@ -1,4 +1,4 @@
-Feature: HotelBookingtests
+Feature: HotelBookingTests
 
   @TFR-1 @OPEN
   Scenario: Create a booking in Hotel Booking
