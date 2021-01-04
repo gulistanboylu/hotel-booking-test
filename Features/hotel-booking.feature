@@ -1,4 +1,4 @@
-Feature: Hotel Booking
+Feature: HotelBookingTests
 
   @ORPHAN
   Scenario: Create a booking in Hotel Booking
