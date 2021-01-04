@@ -15,3 +15,9 @@ Feature: Hotel Booking
     Given Hotel Booking has existing bookings
     When a specific booking is requested by the user
     Then the booking is shown
+
+  @ORPHAN
+  Scenario: Update a booking in Hotel Booking
+    Given Hotel Booking has existing bookings
+    When a specific booking is updated by the user
+    Then the booking is shown to be updated
