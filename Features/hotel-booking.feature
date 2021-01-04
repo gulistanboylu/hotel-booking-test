@@ -1,6 +1,6 @@
 Feature: HotelBookingTests
 
-  @TFR-1 @OPEN
+  @TFR-1 @OPEN @MANUAL
   Scenario: Create a booking in Hotel Booking
     Given a user wants to make a booking with the following details:
       | firstname | lastname | price | paid | from       | to         | needs     |
