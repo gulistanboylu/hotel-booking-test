@@ -9,7 +9,7 @@ Feature: Hotel Booking
     When the booking is submitted by the user
     Then the booking is successfully storedr
     And shown to the user as stored updating this
-    test
+    test2
 
   @QV25-1 @JV10-4 @clse @test @the @tags @dddd @ddddd @gsdfsd @fdfs @fdfsdf @OPEN
   Scenario: Retrieve a booking in Hotel Booking
