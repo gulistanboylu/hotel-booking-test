@@ -7,6 +7,7 @@ Feature: Hotel Booking
     When a specific booking is requested by the user
     Then the booking is shown
 
+  @JNR-1 @OPEN
   Scenario: Update a booking in Hotel Booking
     Given Hotel Booking has existing bookings
     When a specific booking is updated by the user
