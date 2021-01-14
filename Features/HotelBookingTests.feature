@@ -1,7 +1,7 @@
 @clse @OPEN
 Feature: Hotel Booking
 
-  @QV25-1 @JV10-4 @clse @test @the @tags @dddd @ddddd @gsdfsd @fdfs @fdfsdf @JNR-1 @OPEN
+  @QV25-1 @JV10-4 @clse @test @the @tags @dddd @ddddd @gsdfsd @fdfs @fdfsdf @JNR-1 @MANUAL @OPEN
   Scenario: Retrieve a booking in Hotel Booking
     Given Hotel Booking has existing bookings
     When a specific booking is requested by the user
