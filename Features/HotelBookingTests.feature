@@ -1,4 +1,4 @@
-@clse @OPEN
+@clse @OPEN @add
 Feature: Hotel Booking
 
   @QV25-1 @JV10-4 @clse @test @the @tags @dddd @ddddd @gsdfsd @fdfs @fdfsdf @JNR-1 @MANUAL @OPEN
